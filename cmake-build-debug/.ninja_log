@@ -1,0 +1,13 @@
+# ninja log v6
+15	76	7495650617965526	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_cell.cpp.obj	f856926f608afe
+11	122	7495650617925662	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_chunk.cpp.obj	4b9cb0090f4547cd
+2	134	7495650617835997	CMakeFiles/jvm_mempool_c.dir/src/jni/com_sz_jvm_jdk_Threads.cpp.obj	23375ba8a20ab035
+7	136	7495650617895765	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_pool.cpp.obj	ce3d301e93d70164
+136	1762	7495650619182799	libjvm_mempool_c.a	688f7197a42e589e
+1	199	7495653093729583	build.ninja	1f46652b341ba07b
+15	58	7495653094060026	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_cell.cpp.obj	b5abb44a69101e4
+12	93	7495653094020157	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_chunk.cpp.obj	ce11af7c8ed1d7ef
+8	134	7495653093995193	CMakeFiles/jvm_mempool_c.dir/src/memory/memory_pool.cpp.obj	fffe8f0bd21cd467
+5	136	7495653093954749	CMakeFiles/jvm_mempool_c.dir/src/jni/com_sz_jvm_jdk_Threads.cpp.obj	6352d0270f68c769
+136	239	7495653096227206	libjvm_mempool_c.dll	ba68458900fd102c
+136	239	7495653096227206	libjvm_mempool_c.dll.a	ba68458900fd102c
